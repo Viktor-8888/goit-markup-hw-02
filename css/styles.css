@@ -1,7 +1,7 @@
 bodi {
   font-family: "Roboto", "Verdana", "Tahoma", sans-serif;
   color: #434455;
-  background-color: ;
+  background-color: #fff;
 }
 h1 {
   font-weight: 700;
@@ -11,6 +11,10 @@ h1 {
   text-align: center;
   color: #fff;
 }
-ul {
+ul,
+ol {
+  list-style-type: none;
+}
+a {
   text-decoration: none;
 }
