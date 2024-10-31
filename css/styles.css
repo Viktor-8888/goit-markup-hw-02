@@ -1,0 +1,16 @@
+bodi {
+  font-family: "Roboto", "Verdana", "Tahoma", sans-serif;
+  color: #434455;
+  background-color: ;
+}
+h1 {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+ul {
+  text-decoration: none;
+}
