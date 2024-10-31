@@ -1,16 +1,10 @@
+/* #region Base */
 bodi {
   font-family: "Roboto", "Verdana", "Tahoma", sans-serif;
   color: #434455;
   background-color: #fff;
 }
-h1 {
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 1.07143;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #fff;
-}
+
 ul,
 ol {
   list-style-type: none;
@@ -18,3 +12,102 @@ ol {
 a {
   text-decoration: none;
 }
+/* #endregion */
+
+/* #region  Header*/
+.page-header {
+}
+.header-nav {
+}
+.logo {
+}
+.header-logo {
+}
+.logo-part {
+}
+.nav-list {
+}
+.nav-item {
+}
+.nav-link {
+}
+.contacts {
+}
+.contacts-list {
+}
+.contacts-item {
+}
+.contacts-link {
+}
+/* #endregion */
+
+/* #region Solution */
+.solution {
+}
+.solution-title {
+}
+.solution-button {
+}
+/* #endregion */
+
+/* #region Approache */
+.approache {
+}
+.approache-title {
+}
+.approache-list {
+}
+.approache-item {
+}
+.approache-subtitle {
+}
+.approache-text {
+}
+/* #endregion */
+
+/* #region Team */
+.team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-iten {
+}
+.team-img {
+}
+.team-subtitle {
+}
+.team-text {
+}
+/* #endregion */
+
+/* #region Portfolio */
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-img {
+}
+.portfolio-subtitle {
+}
+.portfolio-text {
+}
+/* #endregion */
+
+/* #region Footer */
+.page-footer {
+}
+.logo {
+}
+.footer-logo {
+}
+.logo-part {
+}
+.footer-text {
+}
+/* #endregion */
