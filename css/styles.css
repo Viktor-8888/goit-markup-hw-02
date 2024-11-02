@@ -1,8 +1,8 @@
 /* #region Base */
 body {
-  font-family: "Roboto", sans-serif;
-  color: #434455;
   background-color: #fff;
+  color: #434455;
+  font-family: "Roboto", sans-serif;
 }
 
 ul,
@@ -26,13 +26,13 @@ button {
 .header-nav {
 }
 .logo {
+  color: #4d5ae5;
   font-weight: 700;
-  font-family: "Raleway", sans-serif;
   font-size: 18px;
+  font-family: "Raleway", sans-serif;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
 }
 .header-logo .logo-part {
   color: #2e2f42;
@@ -42,10 +42,10 @@ button {
 .nav-item {
 }
 .nav-link {
+  color: #2e2f42;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
 }
 .nav-link:hover,
 .nav-link:focus {
@@ -58,9 +58,9 @@ button {
 .contacts-item {
 }
 .contacts-link {
+  color: #434455;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 .contacts-link:hover,
 .contacts-link:focus {
@@ -73,21 +73,21 @@ button {
   background: #2e2f42;
 }
 .solution-title {
+  color: #fff;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #fff;
 }
 .solution-button {
-  font-family: inherit;
+  background: #4d5ae5;
+  color: #fff;
+  list-style-type: none;
   font-weight: 500;
   font-size: 16px;
+  font-family: inherit;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #fff;
-  background: #4d5ae5;
-  list-style-type: none;
 }
 .solution-button:hover,
 .solution-button:focus {
@@ -100,27 +100,27 @@ button {
 }
 .visually-hidden {
   position: absolute;
+  overflow: hidden;
+  clip: rect (0 0 0 0);
   width: 1px;
   height: 1px;
   margin: -1px;
-  border: 0;
   padding: 0;
+  border: 0;
 
   white-space: nowrap;
   clip-path: inset (100%);
-  clip: rect (0 0 0 0);
-  overflow: hidden;
 }
 .approache-list {
 }
 .approache-item {
 }
 .approache-subtitle {
+  color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2e2f42;
 }
 .approache-text {
   line-height: 1.5;
@@ -133,11 +133,11 @@ button {
   background: #f4f4fd;
 }
 .team-title {
+  color: #2e2f42;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #2e2f42;
   text-transform: capitalize;
 }
 .team-list {
@@ -148,12 +148,11 @@ button {
 .team-img {
 }
 .team-subtitle {
+  color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-
-  color: #2e2f42;
 }
 .team-text {
   line-height: 1.5;
@@ -165,11 +164,11 @@ button {
 .portfolio {
 }
 .portfolio-title {
+  color: #2e2f42;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #2e2f42;
   text-transform: capitalize;
 }
 .portfolio-list {
@@ -179,15 +178,15 @@ button {
 .portfolio-img {
 }
 .portfolio-subtitle {
+  color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2e2f42;
 }
 .portfolio-text {
-  letter-spacing: 0.02em;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 /* #endregion */
 
@@ -201,8 +200,8 @@ button {
 .logo-part {
 }
 .footer-text {
+  color: #f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #f4f4fd;
 }
 /* #endregion */
