@@ -180,7 +180,7 @@ button {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
-  line-heigt: 1.2;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .portfolio-text {
@@ -201,6 +201,6 @@ button {
 .footer-text {
   color: #f4f4fd;
   letter-spacing: 0.02em;
-  line-height: 1.15;
+  line-height: 1.5;
 }
 /* #endregion */
