@@ -98,18 +98,7 @@ button {
 /* #region Approache */
 .approache {
 }
-.visually-hidden {
-  position: absolute;
-  overflow: hidden;
-  clip: rect (0 0 0 0);
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  border: 0;
-
-  white-space: nowrap;
-  clip-path: inset (100%);
+.approache-title {
 }
 .approache-list {
 }
@@ -181,7 +170,7 @@ button {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
+  line-heigt: 1.2;
   letter-spacing: 0.02em;
 }
 .portfolio-text {
@@ -192,7 +181,7 @@ button {
 
 /* #region Footer */
 .page-footer {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 .footer-logo .logo-part {
   color: #f4f4fd;
@@ -201,7 +190,7 @@ button {
 }
 .footer-text {
   color: #f4f4fd;
-  line-height: 1.5;
   letter-spacing: 0.02em;
+  line-height: 1.15;
 }
 /* #endregion */
